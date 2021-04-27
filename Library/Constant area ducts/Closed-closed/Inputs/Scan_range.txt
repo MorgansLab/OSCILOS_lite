@@ -1,0 +1,2 @@
+min_freq[Hz]		max_freq[Hz]		number_freq[-]		min_gr[1/s]		max_gr[1/s]		number_gr[-]
+0			1000			50			-200			200			50		

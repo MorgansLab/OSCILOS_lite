@@ -1,0 +1,2 @@
+Disp_figs    Small_plots	Save_pdfs	Save_figs   Save_eig	Plot_modes
+1		0		1   	1		1		3
