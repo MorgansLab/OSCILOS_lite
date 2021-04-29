@@ -16,17 +16,4 @@ OSCILOS is being developed for research. Please [join us](http://www.oscilos.com
 * When incrementing the version number, please stick to the [Semantic Versioning Standards](http://semver.org/)
 
 ## Documentation
-* The documentation can be found in the [docs](docs) folder. 
-
-## Logging issues and fixing issues
-* Please log any issues you find [here](https://github.com/MorgansLab/OSCILOS-1.2/issues), and don't forget to say what version of Matlab you are using, and what OS. 
-* Label your issue as a `bug`, `enhancement` etc.
-* Developers working on an issue should assign themselves the issue before starting any work. 
-* Corrections for `bug` issues should be done using GitFlow Hotfix or Bugfix, or in a release branch. 
-* When committing to correct an issue, use the wording `Fixes #1` or `Resolves #1` or `Closes #1`. Doing this will automatically [close issue Number 1, and link to the relevant commit](https://help.github.com/articles/closing-issues-via-commit-messages/)
-* Use the template below when logging issues:
-
-````
-*Matlab Version : r2014a*
-*OS : Windows 8.1*
-*Commit: 86f0a46d3e01461926622151eb9fff689c677321*
+* The documentation can be found in the [docs](docs) folder.
